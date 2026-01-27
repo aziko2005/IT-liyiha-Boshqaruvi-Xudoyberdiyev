@@ -1,2 +1,4 @@
 # IT-liyiha-Boshqaruvi-Xudoyberdiyev
-Smile
+talaba: Aziz Xudoyberdiyev 
+Fan: IT Loyiha bosh qaruvi
+Guruh: AT-56
